@@ -1,4 +1,4 @@
-# Lucy
+# Extasis
 AI Mental health interface
 
 # Why?
